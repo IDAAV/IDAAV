@@ -143,7 +143,13 @@ div.desc {
     font-size:100%; 
     font-family: Leelawadee UI Bold; 
     color: #00000;}
-
+ h5 { 
+    
+    text-align: center;
+    text-indent: 50px;
+    font-size:260%; 
+    font-family: Mistral Regular; 
+    color: #00000;}
 
 /* Navbar container */
 .navbar {
