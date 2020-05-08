@@ -158,7 +158,7 @@ div.desc {
     text-indent: 50px;
     font-size:260%; 
     font-family: Mistral Regular; 
-    color: #333;}
+    color:#d8e3fb;}
 
 /* Navbar container */
 .navbar {
@@ -197,7 +197,7 @@ div.desc {
 
 /* Add a red background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: #ce9c45;
+  background-color: #325cb1;
 }
 
 /* Dropdown content (hidden by default) */
