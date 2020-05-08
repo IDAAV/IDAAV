@@ -1,4 +1,10 @@
-body{margin: 0px;}
+body{margin: 0;
+    background: #18191b;
+    }
+
+.parent {
+     text-align: center; 
+   }
 
 
 div.gallery {
