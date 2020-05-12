@@ -1,11 +1,11 @@
 body{margin: 0;
-    background: width;
+    background: white;
     }
 
 .parent {
-     text-align: center; 
-   }
+     text-align: center;
 
+   }
 
 #rectangle{
    
@@ -13,12 +13,10 @@ body{margin: 0;
     width:1550px;
     height:600px;
 
-    
-       
-
+                    
 
     background:#90A6BE;
-    opacity:0.85;
+    
     box-shodow:20px 20px 30px
         rgba(0,0,0,0.2);
     border-radius:33px; 
@@ -27,8 +25,80 @@ body{margin: 0;
 
 }
 
+h1 { 
+                      position: absolute; 
+                      width:115px;
+                      height:38px;
+                       
+                      left:30px;
+                      top:0px;
+                      
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:30px;
+                      line-height:42px;
+                      text-align:left;
+                      color:#986839;
+                      
+        
+     }
 
-     
+h2 { 
+                      position: absolute; 
+                      width:509px;
+                      height:148px;
+                      
+                      left:1020px;
+                      top:239px;
+                       
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:500;
+                      font-size:20px;
+                      line-height:28px;
+                      text-align:left;
+                      color:white;
+                      
 
+        
+     }
  
-  
+ h3 { 
+                      position: absolute; 
+                      width:392px;
+                      height:26px;
+                      
+                      left:1015px;
+                      top:185px;
+                       
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:bold;
+                      font-size:36px;
+                      line-height:28px;
+                      text-align:left;
+                      color:white;
+                      
+
+        
+     } 
+
+
+h4 { 
+                      position: absolute; 
+                      width:115px;
+                      height:38px;
+                       
+                      left:400px;
+                      top:0px;
+                      
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:30px;
+                      text-align:left;
+                      color:#986839;
+                      
+        
+     }
