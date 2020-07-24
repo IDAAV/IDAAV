@@ -102,3 +102,118 @@ h4 {
                       
         
      }
+
+h5{ 
+                      position: absolute; 
+                      width:115px;
+                      height:38px;
+                       
+                      left:30px;
+                      top:0px;
+                      
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:20px;
+                      line-height:42px;
+                      text-align:left;
+                      color:#986839;
+                      
+        
+     }
+
+
+.navbar {
+  overflow: hidden;
+  font-family: Arial Black;
+}
+
+
+
+.topnav-right {
+  float: right;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: #986839;
+  text-align: center;
+  padding: 20px 14px;
+  text-decoration: none;
+  border-radius:8px;
+  opacity:80%;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+  
+
+}
+
+
+.dropdown .dropbtn {
+  float: left;
+  font-size: 16px;
+  color: #986839;
+  text-align: center;
+  padding: 20px 14px;
+  text-decoration: none;
+  border-radius:8px;
+  opacity:80%;
+  
+  border: none;
+  outline: none;
+  background-color: inherit;
+  font-family: inherit; 
+
+
+  margin: 0; 
+  
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  
+
+  background-color: #986839;
+  opacity:80%;
+   
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  border-radius:8px;
+}
+
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+ 
+}
+
+
+.dropdown-content a:hover {
+  background-color: white;
+  
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+  
+}     
+
+
+
+
+  font-size: 16px; 
+  padding: 20px 14px;
+
+
+  
