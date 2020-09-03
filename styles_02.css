@@ -75,7 +75,7 @@ h2 {
                       font-family:Arial Black;
                       font-style:normal;
                       font-weight:bold;
-                      font-size:36px;
+                      font-size:30px;
                       line-height:28px;
                       text-align:left;
                       color:white;
@@ -105,22 +105,62 @@ h4 {
 
 h5{ 
                       position: absolute; 
-                      width:115px;
-                      height:38px;
-                       
-                      left:30px;
-                      top:0px;
                       
+                                             
+                      left:1100px;
+                      top:0px;
+
                       font-family:Arial Black;
                       font-style:normal;
                       font-weight:900;
-                      font-size:20px;
-                      line-height:42px;
-                      text-align:left;
-                      color:#986839;
+                      font-size:15px;
+                      line-height:20px;
+                      text-align:center;
+                      color:#000000;
                       
         
      }
+
+
+h6{ 
+                      position: absolute; 
+                      
+                                             
+                      left:740px;
+                      top:0px;
+
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:15px;
+                      line-height:20px;
+                      text-align:center;
+                      color:#000000;
+                      
+        
+     }
+
+
+
+h7{ 
+                      position: absolute; 
+                      
+                                             
+                      
+                      top:600px;
+
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:15px;
+                      line-height:20px;
+                      text-align:center;
+                      color:#000000;
+                      
+        
+     }
+
+
 
 
 .navbar {
