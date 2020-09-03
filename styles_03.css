@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
+body{margin: 0;
+    background: #cdd9e5;
+    }
+
+.parent {
+     text-align: center;
+
+   }
+
+#rectangle{
+   
+    text-align: center;
+    width:1550px;
+    height:600px;
+                 
+
+    background:#90A6BE;
+    
+    box-shodow:20px 20px 30px
+        rgba(0,0,0,0.2);
+    border-radius:33px; 
+
+
+
+}
+
+h1 { 
+                      position: absolute; 
+                      width:115px;
+                      height:38px;
+                       
+                      left:30px;
+                      top:0px;
+                      
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:30px;
+                      line-height:42px;
+                      text-align:left;
+                      color:#986839;
+                      
+        
+     }
+
+h2 { 
+                      position: absolute; 
+                      width:509px;
+                      height:148px;
+                      
+                      left:1020px;
+                      top:239px;
+                       
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:500;
+                      font-size:20px;
+                      line-height:28px;
+                      text-align:left;
+                      color:white;
+                      
+
+        
+     }
+ 
+ h3 { 
+                      position: absolute; 
+                      width:392px;
+                      height:26px;
+                      
+                      left:1015px;
+                      top:185px;
+                       
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:bold;
+                      font-size:30px;
+                      line-height:28px;
+                      text-align:left;
+                      color:white;
+                      
+
+        
+     } 
+
+
+h4 { 
+                      position: absolute; 
+                      width:115px;
+                      height:38px;
+                       
+                      left:400px;
+                      top:0px;
+                      
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:30px;
+                      text-align:left;
+                      color:#986839;
+                      
+        
+     }
+
+h5{ 
+                      position: absolute; 
+                      
+                                             
+                      left:1100px;
+                      top:0px;
+
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:15px;
+                      line-height:20px;
+                      text-align:center;
+                      color:#000000;
+                      
+        
+     }
+
+
+h6{ 
+                      position: absolute; 
+                      
+                                             
+                      left:740px;
+                      top:0px;
+
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:15px;
+                      line-height:20px;
+                      text-align:center;
+                      color:#000000;
+                      
+        
+     }
+
+
+
+h7{ 
+                      position: absolute; 
+                      
+                                             
+                      
+                      top:600px;
+
+                      font-family:Arial Black;
+                      font-style:normal;
+                      font-weight:900;
+                      font-size:15px;
+                      line-height:20px;
+                      text-align:center;
+                      color:#000000;
+                      
+        
+     }
+
+
+
+
